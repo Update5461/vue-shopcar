@@ -5,3 +5,4 @@
 >  [项目体验链接](https://jgchenu.github.io/vue-shopcar/)
 
 > [该源码教程视频](http://www.imooc.com/learn/796)
+test
